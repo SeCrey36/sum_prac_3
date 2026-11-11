@@ -1,12 +1,5 @@
 # Local workspace artifacts & reference files
-/референс/
 /temp/
-/info.txt
-/стили (препромпт и для себя).txt
-/generate_samples.py
-/test_report_output.pdf
-/test_sample.docx
-/test_sample.pdf
 
 # OS files
 .DS_Store
